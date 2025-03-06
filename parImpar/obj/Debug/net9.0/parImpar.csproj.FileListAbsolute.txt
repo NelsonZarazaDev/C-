@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\bin\Debug\net9.0\parImpar.exe
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\bin\Debug\net9.0\parImpar.deps.json
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\bin\Debug\net9.0\parImpar.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\bin\Debug\net9.0\parImpar.dll
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\bin\Debug\net9.0\parImpar.pdb
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.dll
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\refint\parImpar.dll
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.pdb
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\parImpar.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\parImpar\obj\Debug\net9.0\ref\parImpar.dll

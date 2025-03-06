@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\bin\Debug\net9.0\listadoNumeros.exe
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\bin\Debug\net9.0\listadoNumeros.deps.json
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\bin\Debug\net9.0\listadoNumeros.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\bin\Debug\net9.0\listadoNumeros.dll
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\bin\Debug\net9.0\listadoNumeros.pdb
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.dll
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\refint\listadoNumeros.dll
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.pdb
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\listadoNumeros.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\listadoNumeros\obj\Debug\net9.0\ref\listadoNumeros.dll
