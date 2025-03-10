@@ -12,3 +12,18 @@ C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMA
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\imc\obj\Debug\net9.0\imc.pdb
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\imc\obj\Debug\net9.0\imc.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\imc\obj\Debug\net9.0\ref\imc.dll
+C:\Users\PC\OneDrive\Escritorio\C-\imc\bin\Debug\net9.0\imc.exe
+C:\Users\PC\OneDrive\Escritorio\C-\imc\bin\Debug\net9.0\imc.deps.json
+C:\Users\PC\OneDrive\Escritorio\C-\imc\bin\Debug\net9.0\imc.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\C-\imc\bin\Debug\net9.0\imc.dll
+C:\Users\PC\OneDrive\Escritorio\C-\imc\bin\Debug\net9.0\imc.pdb
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.dll
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\refint\imc.dll
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.pdb
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\imc.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\C-\imc\obj\Debug\net9.0\ref\imc.dll

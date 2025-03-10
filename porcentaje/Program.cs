@@ -52,8 +52,14 @@ class Program
 
         do
         {
-            Console.Write("Ingrese el porcentaje: ");
+            Console.Write("Ingrese el porcentaje (dejar vacío o 0 para usar 10%): ");
             entradaPorcentaje = Console.ReadLine();
+
+            if (string.IsNullOrEmpty(entradaPorcentaje) || entradaPorcentaje == "0")
+            {
+                porcentaje = 10;
+                break;
+            }
         } while (!double.TryParse(entradaPorcentaje, out porcentaje) || porcentaje <= 0 || porcentaje > 100);
 
         resultado = (porcentaje / 100) * numero;

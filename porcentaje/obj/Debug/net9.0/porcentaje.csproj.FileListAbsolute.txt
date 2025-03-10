@@ -12,3 +12,18 @@ C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMA
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\porcentaje\obj\Debug\net9.0\porcentaje.pdb
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\porcentaje\obj\Debug\net9.0\porcentaje.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\porcentaje\obj\Debug\net9.0\ref\porcentaje.dll
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\bin\Debug\net9.0\porcentaje.exe
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\bin\Debug\net9.0\porcentaje.deps.json
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\bin\Debug\net9.0\porcentaje.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\bin\Debug\net9.0\porcentaje.dll
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\bin\Debug\net9.0\porcentaje.pdb
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.dll
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\refint\porcentaje.dll
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.pdb
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\porcentaje.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\C-\porcentaje\obj\Debug\net9.0\ref\porcentaje.dll

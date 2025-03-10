@@ -26,3 +26,18 @@ C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMA
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\semaforo\obj\Debug\net9.0\semaforo.pdb
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\semaforo\obj\Debug\net9.0\semaforo.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Escritorio\10. Decimo semestre\GESTION DE PROYECTOS INFORMATICOS\Primer corte\Ejercicios\EjerciciosC#\semaforo\obj\Debug\net9.0\ref\semaforo.dll
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\bin\Debug\net9.0\semaforo.exe
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\bin\Debug\net9.0\semaforo.deps.json
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\bin\Debug\net9.0\semaforo.runtimeconfig.json
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\bin\Debug\net9.0\semaforo.dll
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\bin\Debug\net9.0\semaforo.pdb
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.sourcelink.json
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.dll
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\refint\semaforo.dll
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.pdb
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\semaforo.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Escritorio\C-\semaforo\obj\Debug\net9.0\ref\semaforo.dll

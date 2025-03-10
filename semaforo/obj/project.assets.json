@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\10. Decimo semestre\\GESTION DE PROYECTOS INFORMATICOS\\Primer corte\\Ejercicios\\EjerciciosC#\\semaforo\\semaforo.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\OneDrive\\Escritorio\\C-\\semaforo\\semaforo.csproj",
       "projectName": "semaforo",
-      "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\10. Decimo semestre\\GESTION DE PROYECTOS INFORMATICOS\\Primer corte\\Ejercicios\\EjerciciosC#\\semaforo\\semaforo.csproj",
+      "projectPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\C-\\semaforo\\semaforo.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\10. Decimo semestre\\GESTION DE PROYECTOS INFORMATICOS\\Primer corte\\Ejercicios\\EjerciciosC#\\semaforo\\obj\\",
+      "outputPath": "C:\\Users\\PC\\OneDrive\\Escritorio\\C-\\semaforo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
